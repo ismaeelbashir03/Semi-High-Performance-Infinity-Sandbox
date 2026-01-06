@@ -1,0 +1,14 @@
+# Build artifacts
+backend/*.o
+backend/*.d
+backend/limitless_server
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+frontend/.venv/
+
+# OS/editor
+.DS_Store
+.vscode/
